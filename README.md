@@ -4,6 +4,8 @@
 
 ## Description
 
+Web App with 5 authentication levels for Band Leaders, Band Members, Moderator fans and anonymous fans. Website has tools for contacting site developer or band leader. Moderator fans can leave messages in message board. Event articles get updated to the front page. There are also rehearsal scheduling tools with advanced polling and todo task feature - to schedule a recurring rehearsal for example. 
+
 This website was generated with [Drupal 7.54](https://www.drupal.org/project/drupal/releases/7.54).
 
 
